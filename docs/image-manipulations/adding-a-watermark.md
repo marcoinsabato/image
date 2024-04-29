@@ -18,7 +18,7 @@ The watermark is placed in the bottom right corner by default. You can change th
 ### Example usage
 
 ```php
-$image->watermark('watermark.png', AlignPosition::center);
+$image->watermark('watermark.png', AlignPosition::Center);
 ```
 
 ![Example](../../images/example-watermark-position.jpg)
